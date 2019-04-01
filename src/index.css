@@ -12,3 +12,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.header {
+  text-align: left;
+  font-family: 'monaco', 'Arial Narrow', Arial, sans-serif;
+  font-size: 15px;
+}
+
+.github-profile {
+  font-family: 'monaco', 'Arial Narrow', Arial, sans-serif;
+}
