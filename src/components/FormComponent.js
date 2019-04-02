@@ -24,7 +24,7 @@ export class FormComponent extends Component {
             /*ref={this.usernameInput} */ 
             required
           />
-          <button>Add cart</button>
+          <button>Fetch users</button>
         </form>
       );
     }
